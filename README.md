@@ -23,11 +23,11 @@ This project addresses that need by summarising budget and actual spending and p
 |---|---:|
 | Total Budget | ₦795,434,571 |
 | Total Actual Spend | ₦890,255,044 |
-| Budget Variance | ₦94,820,473 |
+| Budget Variance | ₦94,855,388 |
 | Variance Percentage | 11.92% overspend |
 
 ## Key Findings
-- Actual expenditure exceeded the total budget by **₦94,820,473**.
+- Actual expenditure exceeded the total budget by **₦94,855,388**.
 - Actual spending was approximately **11.92% above budget**.
 - Departmental, category, and regional comparisons provide a basis for identifying areas with significant budget overruns.
 - Further investigation is required to understand the causes of individual variances.
